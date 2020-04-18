@@ -8,4 +8,4 @@ let twoSum = function(nums, target) {
     }
 };
 let nums = [2, 7, 11, 15], target = 13
-console.log(twoSum(nums,target)) 改变
+console.log(twoSum(nums,target))
